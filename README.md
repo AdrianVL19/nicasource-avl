@@ -1,6 +1,8 @@
 BY: Adrian Villa Lopez
 DATE: 12 April 2021
 
+![icon](https://user-images.githubusercontent.com/54151472/114430408-02ce6080-9b84-11eb-818a-4d12bac8c2b7.png)
+
 A React Native app capable of reading qr codes and show in a list. All data is manage by redux. You can add, delete or search any link you want.
 
 The app had some bugs:
